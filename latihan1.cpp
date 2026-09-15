@@ -2,9 +2,8 @@
 
 using namespace std;
 int main() {
-    cout << "Hello, World!";
+    cout << "Hello, World!" << endl;
     //fungsi endl ini adalah untuk membuat spasi pada program 
-    cout << endl;
     cout << "Hello, Abbas";
     return 0;
 }
