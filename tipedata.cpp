@@ -11,4 +11,4 @@ int main() {
     return 0;
 } 
 
-//Catatan,jika ingin membuat spasi agar angka nya tidak nyambung cukup kasih spasi di dalam string nya ya
+//Catatan,jika ingin membuat spasi agar angka nya tidak nyambung cukup kasih spasi di dalam string nya 
