@@ -7,7 +7,7 @@ int main() {
 
     cout << "Usia Saya Adalah " << usia << " dan ";
     cout << "Tinggi Saya Adalah " << tinggi_saya << endl;
-    cout << " NISN saya Adalah " << nisn;
+    cout << "NISN saya Adalah " << nisn;
     return 0;
 } 
 
